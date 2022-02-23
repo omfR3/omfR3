@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @omfR3
+- 👀 I’m interested in pragmatic functional programming, model checking/proving, music and way too many other things
+- 🌱 I’m currently learning Corda, Kotlin, Haskell and way too many other things
